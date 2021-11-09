@@ -10,16 +10,6 @@ int main(void){
 
 }
 int *rand_FNC(int n){
-    int a = 0;//1
-    int b = 0;//2
-    int c = 0;//3
-    int d = 0;//4
-    int e = 0;//5
-    int f = 0;//6
-    int g = 0;//7
-    int h = 0;//8
-    int i = 0;//9
-    int j = 0;//10
     int arr[n];
     int tmp;
     int start = n;
