@@ -25,19 +25,4 @@ int *rand_FNC(int n){
         printf("Number %d about value: %d\n",iter+1,result);
         iter++;
     }
-
-
-int rlt = 0;
-
-
-
-
-    while(rlt<start){
-
-        //printf("Number %d equal: %d\n",rlt+1,arr[rlt]);
-        rlt++;
-    }
-
-
-
 }
